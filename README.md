@@ -33,7 +33,7 @@
 ### 01. 데이터와 정보의 차이에 대해 설명해주세요<br/><br/> 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/Database/assets/Untitled.png" width="400" height="200"><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/suojae3/Database/asset/Untitled.png" width="400" height="200"><br/><br/>
 
 - 우유로 예를 들면 데이터는 젖소로부터 갓 짜낸 원유입니다. 이는 현실세계에서 단순히 관찰하거나 측정해 수집한 사실이나 값입니다. 정보는 이러한 원유를 가공한 가공우유로 의사결정에 유용하게 활용할 수 있도록 데이터를 처리한 결과물입니다<br/><br/> 
 
